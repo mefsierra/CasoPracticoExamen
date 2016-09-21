@@ -1,0 +1,1 @@
+No se puede realizar una resta cuando se introducen letras en vez de números y cuando le restas a un número, un número mayor que él.
